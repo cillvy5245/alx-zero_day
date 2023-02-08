@@ -1,4 +1,4 @@
- my first readme 
+ My first readme. 
  This is my update readme file directly from github.com
- alx is the best place to learn programming 
- I LOVE ALX 
+ Alx is the best place to learn programming. 
+ I LOVE ALX. 
